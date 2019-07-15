@@ -1,0 +1,13 @@
+body,html{
+    margin:0 auto;
+    font-family:Helvetica;
+    color:rgb(51, 51, 51);
+    word-spacing: 5px;
+    font-weight: 40;
+}
+
+nav{
+  text-decoration:none;
+  color:#0E0E0E;
+  cursor:pointer;
+}
